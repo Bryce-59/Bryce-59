@@ -1,6 +1,6 @@
 ### Hello, I'm Bryce
 
-I am a Software Engineer and recent graduate from the University of Texas at Austin. I am most experienced in back-end development with Java, Python, and C/C++. I am always working on public projects to add to my repo. Feel free to reach out!   
+I am a Software Engineer and recent Computer Science graduate from the University of Texas at Austin. I am most experienced in back-end development with Java, Python, and C/C++. I am always working on public projects to add to my repo. Feel free to reach out!   
 
 ### Connect with me:
 
