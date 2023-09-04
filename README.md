@@ -1,6 +1,6 @@
 ### Hello, I'm Bryce
 
-I am a Software Engineer and recent Computer Science graduate from the University of Texas at Austin. I am most experienced in back-end development with Java, Python, and C/C++. I am always working on public projects to add to my repo. Feel free to reach out!   
+I am a Software Engineer and recent Computer Science graduate from the University of Texas at Austin. I am most experienced in back-end development with Java, Python, and C/C++. I am always working on new projects and honing my skills. Feel free to reach out!   
 
 ### Connect with me:
 
@@ -19,7 +19,9 @@ I am a Software Engineer and recent Computer Science graduate from the Universit
 <br />
 
 ### Projects:
-- [Command Line Games](https://github.com/Bryce-59/command-line-games): Play several fun games against a computer, directly from your terminal! 
+- [Command Line Games](https://github.com/Bryce-59/command-line-games): Play several fun games against a computer, directly from your terminal!
+- [Algorithms and Data Structures](https://github.com/Bryce-59/algorithms-and-data-structures): A portfolio of implementations for various computer science algorithms and data structures. 
+- [Password Manager](https://github.com/Bryce-59/password-manager): A simple and semantically-secure password manager!
 
 
 [linkedin]: https://linkedin.com/in/bdr59
